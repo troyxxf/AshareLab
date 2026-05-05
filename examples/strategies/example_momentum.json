@@ -1,0 +1,14 @@
+{
+  "name": "example_momentum",
+  "description": "A deliberately simple public sample strategy for validating the workflow.",
+  "parameters": {
+    "lookback": 5,
+    "top_n": 3,
+    "holding_days": 1,
+    "gross_exposure": 1.0
+  },
+  "notes": [
+    "This example is not intended to be profitable.",
+    "Keep proprietary signals and thresholds in a private repository."
+  ]
+}
