@@ -16,14 +16,14 @@ venv/
 env/
 .uv-cache/
 
-outputs/
-cache/
-data/
-bundle/
-downloads/
-vendor/
-.state/
-.tmp/
+/outputs/
+/cache/
+/data/
+/bundle/
+/downloads/
+/vendor/
+/.state/
+/.tmp/
 
 *.sqlite
 *.db
