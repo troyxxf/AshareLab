@@ -40,12 +40,6 @@ scripts/          Local helper scripts
 tests/            Lightweight tests
 ```
 
-## Safety Rules
-
-- Never commit `.env`.
-- Never commit `cache/`, `outputs/`, `data/`, `bundle/`, local databases, broker exports, or market-data dumps.
-- Keep proprietary strategies in a separate private repository.
-- Treat this repository as infrastructure only.
 
 ## Disclaimer
 
